@@ -13,7 +13,7 @@ Empresa com foco em fabricação de consoles, porém a entrega dos produtos, inc
 Objetivos:
 Consolidar base de dados de vendas de parceiros com informações diversas
 
-Usar a consolidaçao de dados de vendas em análises que adicionem insights estratégicos 
+Usar a consolidaçao de dados de vendas em análises que adicionem insights estratégicos utilizando prompts nas ferramentas IA em estudo no curso como Chatgpt e Copilot
 
 Exemplos:
 
@@ -28,7 +28,7 @@ Consolidando Dados:
 
 Aplicando alguns conceitos em Chatgpt e Copilot
 
-Chat GPT
+Chat GPT - gerando prompts
 
 ![Captura de tela 2025-06-28 020404](https://github.com/user-attachments/assets/6d045952-bebc-4273-8019-3dad0ca1516e)
 
@@ -38,7 +38,7 @@ Após algumas interações não foi possível continuar com a versão gratuita:
 
 
 
-Copilot
+Copilot - gerando prompts
 
 
 ![Captura de tela 2025-06-28 124243](https://github.com/user-attachments/assets/731f46ca-7604-4bb2-aad9-4a7d213018a6)
@@ -68,7 +68,9 @@ Interações utilizando Copilot gerando os insights propostos no case de uso:
 
 ![Captura de tela 2025-06-28 132830](https://github.com/user-attachments/assets/6ee5a46b-28de-49c2-82f3-8571b754d243)
 
+Conclusão:
 
+Com este case de uso foi possível demonstrar o uso das ferramenas IA e seus recursos para apoiar em nossas atividades profissionais diárias.
 
 
 
